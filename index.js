@@ -7,10 +7,10 @@ http.createServer(function (req, res) {
         '<html>',
             '<head>',
                 '<meta charset="utf-8" />',
-                '<title>openshift demo</title>',
+                '<title>微服務風雲</title>',
             '</head>',
             '<body>',
-                '<p>Hello World openshift 君品研討會!</p>',
+                '<p>Hello World  微服務  from  OpenShift Online 公共雲 PaaS 平台 !</p><br><p></p>',
             '</body>',
         '</html>'
     ].join('');
